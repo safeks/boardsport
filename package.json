@@ -4,6 +4,7 @@
   "type": "module",
   "description": "BOARDSPORT - E-commerce приложение для экстремальных видов спорта",
   "main": "index.jsx",
+  "homepage": "https://safeks.github.io/boardsport/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
