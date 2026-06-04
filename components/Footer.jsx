@@ -184,7 +184,7 @@ export default function Footer() {
                   <p>Ежедневно с 9 до 21</p>
                 </div>
                 <div className="pt-2">
-                  <p className="text-sm font-bold">Контактный Email</p>
+                  <p className="text-sm font-bold text-neutral-400">Контактный Email</p>
                   <a
                     href="mailto:info@brd.ru"
                     className="text-sm text-neutral-400 underline"
